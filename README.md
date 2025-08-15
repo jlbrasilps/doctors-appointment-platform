@@ -1,7 +1,5 @@
- Landing Page | Doctor Dashboard – Earnings | Doctor Dashboard – Availability |
-|:---:|:---:|:---:|
-| ![Landing Page](./screenshots/landing-page.png) | ![Earnings](./screenshots/dashboard-earnings.png) | ![Availability](./screenshots/dashboard-availability.png) |
+# Full Stack Doctors Appointment Platform with Next JS, Neon, Tailwind, Vonage, Shadcn UI 🔥🔥
 
-| Set Availability | Appointments List |
-|:---:|:---:|
-| ![Set Availability](./screenshots/dashboard-set-availability.png) | ![Appointments](./screenshots/dashboard-appointments.png) |
+# <img width="1470" alt="Screenshot 2025-05-27 at 1 18 06 PM" src="https://github.com/user-attachments/assets/a0d3d443-f5e1-433a-85a7-a76a3866858d" />
+
+# doctors-appointment-platform
